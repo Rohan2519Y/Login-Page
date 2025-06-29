@@ -6,7 +6,7 @@ function Account() {
         <div style={{ display: 'flex', justifyContent: 'center', width: '100%', height: '100%' }}>
             <div style={{ display: 'flex', flexDirection: 'column', width: '400px', border: '1px solid grey', height: '99vh' }}>
                 <h2 style={{ width: '100%', height: '2%', padding: '0 10px' }}>Account Settings</h2>
-                
+                <hr style={{ width: '100%' }}></hr>
                 <div style={{ display: 'flex', alignItems: 'center', marginBottom: 15, padding: '0 10px' }}>
                     <img src="https://i.pravatar.cc/100" alt="profile" style={{ borderRadius: '50%', width: 60, height: 60, marginRight: 15 }} />
                     <div>
